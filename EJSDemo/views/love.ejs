@@ -1,0 +1,9 @@
+<% include partials/header %>
+<h1>You fell in love with: <%= thingVar %></h1>
+
+<% if(thingVar === 'husky') { %>
+	<p>GOOD CHOICE! HUSKY IS THE BEST</p>
+<% } else { %>
+	<p>BAD CHOICE! YOU SHOULD'VE SAID HUSKY</p>
+<% } %>
+<% include partials/footer %>
