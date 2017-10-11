@@ -8,6 +8,9 @@ app.set('view engine', 'ejs');
 let campgrounds = [
 		{ name: 'Salmon Creek', image: 'https://images.unsplash.com/photo-1501703979959-797917eb21c8?dpr=1&auto=compress,format&fit=crop&w=1189&h=&q=80&cs=tinysrgb&crop=' },
 		{ name: 'Granite Hill', image: 'https://images.unsplash.com/photo-1445308394109-4ec2920981b1?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=' },
+		{ name: 'Mountain Goat\'s Rest', image: 'https://images.unsplash.com/photo-1457368406279-ec1ecb478381?dpr=1&auto=compress,format&fit=crop&w=967&h=&q=80&cs=tinysrgb&crop=' },
+		{ name: 'Salmon Creek', image: 'https://images.unsplash.com/photo-1501703979959-797917eb21c8?dpr=1&auto=compress,format&fit=crop&w=1189&h=&q=80&cs=tinysrgb&crop=' },
+		{ name: 'Granite Hill', image: 'https://images.unsplash.com/photo-1445308394109-4ec2920981b1?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=' },
 		{ name: 'Mountain Goat\'s Rest', image: 'https://images.unsplash.com/photo-1457368406279-ec1ecb478381?dpr=1&auto=compress,format&fit=crop&w=967&h=&q=80&cs=tinysrgb&crop=' }
 	];
 
