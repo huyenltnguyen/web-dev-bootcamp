@@ -9,3 +9,12 @@ i.icon {
 #delete-form {
 	display: inline;
 }
+
+.ui.basic.primary.button {
+	transition: all .3s;
+}
+
+.ui.basic.primary.button:hover {
+	background-color: #2185d0 !important;
+	color: #fff !important;
+}
