@@ -9,3 +9,7 @@
 .thumbnail .caption-full {
 	padding: 9px;
 }
+
+.thumbnail .caption-full h2 {
+	display: inline-block;
+}
